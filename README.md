@@ -10,5 +10,6 @@ Mentor:-Sravani gouni
 
 Conclusion:-In conclusion, weather apps provide users with convenient access to essential weather information for their location and beyond. Offering real-time updates and forecasts, these apps empower individuals to plan their activities, travels, and daily routines accordingly. With features such as radar maps, severe weather alerts, and customizable settings, weather apps serve as invaluable tools for staying informed and prepared for whatever Mother Nature has in store. Whether checking the forecast for the day ahead or monitoring long-term trends, weather apps offer a user-friendly and reliable way to stay ahead of the elements.
 
-Note*:-All the codes are in master branch,
+Note*:-All the codes are in master branch.
+
 Note*:-Am done this project using Rapid Api, and am exceed the api hit limit of basic subscription, so it's a request to use your Api(accordingly).
